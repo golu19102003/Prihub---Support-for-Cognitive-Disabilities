@@ -235,9 +235,10 @@ Great! Here’s how you can expand your README with **example screenshots** and 
 - **Analytics:** Add Google Analytics or similar for usage tracking.
 - **Accessibility Audits:** Use tools like Lighthouse or axe to further improve accessibility.
 ---
-If you need help with any specific deployment platform, feel free to connect with me on: Pranjal Khandelwal 
-LinkedIn: https://www.linkedin.com/in/pranjal-khandelwal-1a46682a4/ 
-GitHub: https://github.com/golu19102003 
-Twitter: https://x.com/Pranjal76009498 
-Facebook: https://www.facebook.com/profile.php?id=100095370905135 
-Instagram: https://www.instagram.com/pranjal19102003_2.0/
+**Contact**
+For feedback, contributions, or queries:
+👤 Pranjal Khandelwal
+🔗 LinkedIn: https://www.linkedin.com/in/pranjal-khandelwal-1a46682a4/
+💻 GitHub: https://github.com/golu19102003
+🐦 Twitter: https://x.com/Pranjal76009498
+📸 Instagram: https://www.instagram.com/pranjal19102003_2.0/
