@@ -39,6 +39,7 @@ PriHub is a web platform designed to support individuals with cognitive disabili
 └── .env                      # (Not included) Your OpenAI API key
 ```
 ---
+
 ## Setup & Installation
 ### 1. Clone the Repository
 ```bash
@@ -142,12 +143,16 @@ The app will be available at [https://soft-sunflower-5f4497.netlify.app/)].
 ---
 
 ## License
-This project is for educational and non-commercial use. Please contact the author for other uses.
+- This project is for educational and non-commercial use. Please contact the author for other uses.
 ---
 
 ## Contact
-For questions, feedback, or accessibility suggestions, please use the contact form on the site or email the developer.
----
+For feedback, contributions, or queries:
+👤 Pranjal Khandelwal
+🔗 LinkedIn: https://www.linkedin.com/in/pranjal-khandelwal-1a46682a4/
+💻 GitHub: https://github.com/golu19102003
+🐦 Twitter: https://x.com/Pranjal76009498
+📸 Instagram: https://www.instagram.com/pranjal19102003_2.0/---
 
 **PriHub – Empowering individuals with cognitive disabilities through technology and community.**
 
@@ -229,16 +234,10 @@ Great! Here’s how you can expand your README with **example screenshots** and 
 - Copy your Firebase config into the `<script>` block in `index.html`.
 ---
 
-## Want More?
+## Optional Enhancement
 - **Add a custom domain:** Configure your DNS and update your cloud platform settings.
 - **HTTPS:** Most cloud platforms provide HTTPS by default.
 - **Analytics:** Add Google Analytics or similar for usage tracking.
 - **Accessibility Audits:** Use tools like Lighthouse or axe to further improve accessibility.
 ---
-**Contact**
-For feedback, contributions, or queries:
-👤 Pranjal Khandelwal
-🔗 LinkedIn: https://www.linkedin.com/in/pranjal-khandelwal-1a46682a4/
-💻 GitHub: https://github.com/golu19102003
-🐦 Twitter: https://x.com/Pranjal76009498
-📸 Instagram: https://www.instagram.com/pranjal19102003_2.0/
+
