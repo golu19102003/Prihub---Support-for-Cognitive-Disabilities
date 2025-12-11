@@ -158,10 +158,6 @@ For feedback, contributions, or queries:
 
 ---
 
-Great! Here’s how you can expand your README with **example screenshots** and **deployment instructions**. You can copy and paste this into your README and add your own screenshots as needed.
-
----
-
 ## Example Screenshots
 ### About Page
 ![Screenshot 2025-06-04 080645](https://github.com/user-attachments/assets/32461f36-7e46-4831-a87b-76d510769282)
