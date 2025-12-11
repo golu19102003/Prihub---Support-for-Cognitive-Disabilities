@@ -14,6 +14,8 @@ PriHub is a web platform designed to support individuals with cognitive disabili
 - [Chatbot Integration](#chatbot-integration)
 - [Customization](#customization)
 - [License](#license)
+- [Firebase Setup](#firebase-setup)
+- [Optional Enhancement](#optional-enhancement)
 ---
 
 ## Features
