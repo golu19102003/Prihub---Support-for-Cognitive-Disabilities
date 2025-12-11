@@ -148,6 +148,7 @@ The app will be available at [https://soft-sunflower-5f4497.netlify.app/)].
 
 ## Contact
 For feedback, contributions, or queries:
+
 👤 Pranjal Khandelwal
 
 🔗 LinkedIn: https://www.linkedin.com/in/pranjal-khandelwal-1a46682a4/
